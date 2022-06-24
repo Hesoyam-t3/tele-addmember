@@ -1,8 +1,9 @@
 # tele-addmember
 Scrape addmember 
+<hr>
 Step 1: Install Telethon packagenya dulu di Vs code ya massehhh semua ada di paling bawah linknya :) 
 pip install telethon
-
+<hr>
 Step 2: Buat file config.json Copy file > config.json dari config.example.json.
 
 {
