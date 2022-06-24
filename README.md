@@ -34,7 +34,7 @@ Install Python<br/>
 Install vscode studio<br/>
 exctrac to desktop file telethonnya<br/>
 jika sudah buka vscodenya dan buka open folder arahkan ke desktop buka folder telethonnya dan oke<br/>
-ikuti step 1, dan buka terminal(CMDNYA VSCODE) bagian bar atas vscodenyadan selanjutnya ikuti step 2,<br/>
+ikuti step 1, dan buka terminal(CMDNYA VSCODE) bagian bar atas vscodenyadan selanjutnya ikuti step 2,
 setting Phone,api_id dan api hash cara mendapatan api_id dan api_hash itu kalian bisa ke : https://my.telegram.org/auth<br/>
 isi datanya kya nama app pilih android/browser ya lalu ikuti stepnya sesuai dengan step 3 - step 5,<br/>
 step 6 tinggal ikuti saja
@@ -42,7 +42,7 @@ step 6 tinggal ikuti saja
 Jika sudah 30-35 members --> Tunggu 15 minutes dan ganti nomer yang akan kita korbankan 
 <hr>
 
-File :
+File :<br/>
 ⚫Download Python: https://www.python.org/downloads/<br/>
 ⚫Download VS Code: https://code.visualstudio.com/download
 
